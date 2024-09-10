@@ -1,1 +1,4 @@
-Isso é um teste.
+  Na aula, aprendemos a criar uma conta no gitHub, o conceito de repositório que é um espaço de armazenamento onde você pode organizar e manter os arquivos de um projeto, além de poder compartilha-lo com outras pessoas, fazer elas trabalharem no mesmo código e ter acesso a várias versões anteriores do mesmo. também aprendemos o conceito de fork, que seria o mecanismo que dá acesso a um código e que permite que um colaborador faça as alterações que julga necessária. Essas alterações originam uma nova versão do código, mas permite que a antiga ainda exista.
+  Também conhecemos o markdown, que seria o cartão de visitas do seu perfil do github. Nele você põe suas informações pessoais, suas formações, suas habilidades, as linguagens que você conhece etc etc etc. Vimos sites que dão uma possibilidade de personalizar o markdown e torna-lo mais apresentável e completo. 
+    Por último, aprendemos a dar commit, que seria o ato de publicar mudanças no que quer que seja no seu repositório, podendo ser no código, um README, ou qualquer outro detalhe a mais
+  
